@@ -1,3 +1,51 @@
+## 6.4.0.1
+* Fix Sprockets 3 support (by Eda Riedl).
+
+## 6.4 “Hic et ubique terrarum”
+* Add `:any-link` selector support.
+* Add `text-decoration-skip` support.
+* Add `transition: duration property` support.
+* Fix `-webkit-` prefix for `backface-visibility`.
+* Fix `rad` unit support in gradients (by 刘祺).
+* Fix `transition` support in Opera 12.
+* Fix warning in Sprokets 3.
+* Removed Safari TP Grid prefixes support.
+
+## 6.3.7
+* Fix `browserslist` path detection (by Jose Luis Salas).
+* Fix rare `Cannot read property 'constructor' of null` issue.
+* Add space-less `>1%` and `>.5%` syntax support.
+* Clean `0` versions in some country-based requests.
+* Update Can I Use data.
+
+## 6.3.6.2
+* Update Firefox ESR.
+* Update Can I Use data.
+
+## 6.3.6.1
+* Fix source map for Sprockets 4 (by Richard Schneeman).
+
+## 6.3.6
+* Add Safari TP prefix support for Grid Layout.
+
+## 6.3.5
+* Fix duplicate prefixes for `-ms-interpolation-mode`.
+
+## 6.3.4
+* Show users coverage for selected browsers in `.info` and Rake task.
+
+## 6.3.3.1
+* Add Sprockets 4 support (by Richard Schneeman).
+* Add `AutoprefixerRails.uninstall()`.
+* Use `bundle_processor` for Sprockets 4 (by Adam Becker).
+* Clean gem dependency from `json` (by deepj).
+
+## 6.3.3
+* Fix transition warning.
+
+## 6.3.2
+* Update Can I Use data.
+
 ## 6.3.1
 * Fix compatibility with Flexibility polyfill.
 
